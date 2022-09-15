@@ -1,6 +1,6 @@
 ### Hi there I'm Osmar 👋
 
-Here are some ideas to get you started:
+Welcome to my profile:
 
 - 🔭 I’m currently working on Web Hosting and Cloud Server
 - 🌱 I’m currently learning Data Science and Python
