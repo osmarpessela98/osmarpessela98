@@ -2,8 +2,8 @@
 
 Welcome to my profile:
 
-- 🔭 I’m currently working on Web Hosting and Cloud Server
-- 🌱 I’m currently learning Data Science and Python
+- 🔭 I’m currently working on Data Science with Python
+- 🌱 I’m currently learning AI and Machine Learning
 - 📫 How to reach me: Osmar@nestangola.com
 
   <div style="display: inline_block"><br>
