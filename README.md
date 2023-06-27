@@ -15,8 +15,9 @@ Welcome to my profile:
     <img align="center" alt="Osmar-pandas" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       <img align="center" alt="Osmar-anaconda" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
       <img align="center" alt="Osmar-R" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-         <img align="center" alt="Osmar-Tensor" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-           <img align="center" alt="Osmar-CV" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+         <img align="center" alt="Osmar-Tensor" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+          
+   <img align="center" alt="Osmar-CV" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
              
           
                
