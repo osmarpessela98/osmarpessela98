@@ -12,7 +12,8 @@ Welcome to my profile:
    <img align="center" alt="Osmar-Vi" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="Osmar-Sql" height ="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Osmar-juoyter" height ="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-           
+    <img align="center" alt="Osmar-pandas" height ="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+               
           
 </div>
 
